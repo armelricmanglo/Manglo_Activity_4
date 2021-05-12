@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Manglo_Activity_4"
